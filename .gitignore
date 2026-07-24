@@ -1,0 +1,48 @@
+# Operating System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE Files
+.vscode/
+.idea/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment and Secrets
+.env
+.env.*
+secrets/
+private/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
+
+# Build Output
+dist/
+build/
+out/
+
+# Disk Images and Large Archives
+*.iso
+*.img
+*.dmg
+*.zip
+*.7z
+*.rar
