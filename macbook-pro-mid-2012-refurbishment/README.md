@@ -16,7 +16,7 @@ What started as a simple repair eventually became a long-term project involving:
 
 The project is currently paused, but the MacBook is stable and fully usable with macOS Catalina.
 
-For the complete refurbishment journey, troubleshooting process, and future plans, see the [full project log](./macbook-pro-mid-2012-refurbishment/logs.md).
+For the complete refurbishment journey, troubleshooting process, and future plans, see the [full project log](logs.md).
 
 ---
 
