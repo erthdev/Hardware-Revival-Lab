@@ -41,6 +41,10 @@ After having it repaired, I decided to continue improving it myself.
 
 That is where the project began.
 
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/596bd8b1-d526-4531-be77-be6a7a3de23a" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/8f365026-6d99-4485-aa2a-097353436ad5" />
+
 ---
 
 # Log 01: The Original Storage Setup
@@ -60,6 +64,11 @@ The Linux Mint installation was removed.
 The SSD was wiped clean.
 
 At this point, the project became a clean rebuild.
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/c66e20cf-25e6-4034-901f-4b4201d40036" />
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/854f1a2c-cdf1-49fd-8e67-4067fd07cbdc" />
+
 
 ---
 
@@ -90,6 +99,8 @@ The original **240 GB SSD** was removed.
 The **256 GB STORM SSD** was installed.
 
 The storage upgrade was complete.
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/08e56dd4-762d-4cc2-beab-313f1f56f76c" />
 
 ---
 
@@ -158,6 +169,14 @@ After the installation process was completed, macOS Catalina was successfully ru
 
 The MacBook was alive again.
 
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/7c0089c3-2714-49fe-8c57-e4441352c21d" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/d872d6d5-9fbd-4342-aecd-f617f68c2586" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/7c784edd-d4a2-4cf5-8198-e4f040ce16ab" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3be96680-a200-4005-8e41-e60d05e36012" />
+
 ---
 
 # Log 05: Catalina Is Working
@@ -183,6 +202,11 @@ The MacBook had already achieved the original goal.
 It had been repaired, upgraded, and given to my girlfriend as a monthsary gift.
 
 But I was not finished experimenting.
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/81fd0d01-84dc-4530-9056-97f04cfe6139" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/102b0b3e-d331-4a14-8686-61b6fa127e10" />
+
 
 ---
 
@@ -384,6 +408,11 @@ The next phase will begin when I acquire the 1 TB drive.
 After that, I can continue experimenting with OpenCore Legacy Patcher while keeping the current system as safe as possible.
 
 Until then, the MacBook is officially back in service.
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/89b0997d-57c6-4789-9e6c-622dfe0c52d0" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/4ad46f82-6607-4beb-9d6c-0f611ca62c07" />
+
 
 **Project status: Paused, but not abandoned.**
 
